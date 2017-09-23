@@ -1,1 +1,1 @@
-<h1>PHP İle Basit Blog Yazılımı Edit</h1>
+<h1>PHP İle Basit Blog Yazılımı</h1>
